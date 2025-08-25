@@ -56,3 +56,6 @@ The goal was to create an end-to-end project that mimics real-world business int
 - Add forecasting using Python (ARIMA/Prophet).
 - Automate ETL pipelines for real-time data updates.
 - Enhance Power BI with advanced DAX measures.
+
+## Dataset: AtliQ Technologies (fictional company data provided for learning and analytics practice).
+
